@@ -18,7 +18,7 @@ require (
 	cosmossdk.io/x/nft v0.1.1
 	cosmossdk.io/x/tx v0.13.3
 	cosmossdk.io/x/upgrade v0.1.4-0.20240625194835-17173894fea9 // TODO(@julienrbrt): tag upgrade
-	github.com/cometbft/cometbft v0.38.9
+	github.com/cometbft/cometbft v0.38.12-0.20241003202738-b68b3f4b3a08
 	github.com/cosmos/cosmos-db v1.0.2
 	// this version is not used as it is always replaced by the latest Cosmos SDK version
 	github.com/cosmos/cosmos-sdk v0.50.6
@@ -132,7 +132,6 @@ require (
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/lib/pq v1.10.8 // indirect
-	github.com/libp2p/go-buffer-pool v0.1.0 // indirect
 	github.com/linxGnu/grocksdb v1.8.14 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
